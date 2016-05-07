@@ -1,0 +1,8 @@
+Action:Fill Table - EventLogEntryType:Error - Display: Error al obtener Listado de Datos. -  Date: 5/5/2016 7:23:15 PM - Event:SQL logic error or missing database
+no such column: SubModule_Form_Field_NumSeq
+Action:Fill Table - EventLogEntryType:Error - Display: Error al obtener Listado de Datos. -  Date: 5/5/2016 7:27:50 PM - Event:SQL logic error or missing database
+no such column: SubModule_Form_Field_NumSeq
+Action:Fill Dataset - EventLogEntryType:Error - Display: Error En Obtener Resultados de Datos -  Date: 5/6/2016 7:55:46 PM - Event:SQL logic error or missing database
+near "EXEC": syntax error
+Action:Fill Dataset - EventLogEntryType:Error - Display: Error En Obtener Resultados de Datos -  Date: 5/6/2016 7:58:16 PM - Event:SQL logic error or missing database
+near "EXEC": syntax error

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<xml>
+  <objecttype>Report</objecttype>
+  <caption>Listado de Monedas</caption>
+  <sql>SELECT C.[Currency_Code] ,C.[Currency_Description] ,C.[Currency_Bank_Rate]  FROM Sales_Tb_Currency C 
+WHERE C.[Currency_Is_Active] = 1</sql>
+  <tablename> (SELECT C.[Currency_Code] ,C.[Currency_Description] ,C.[Currency_Bank_Rate]  FROM Sales_Tb_Currency C 
+WHERE C.[Currency_Is_Active] = 1) t</tablename>
+  <Module>Admin</Module>
+  <fields>
+    <field>
+      <name>Currency_Code</name>
+      <Type>String</Type>
+      <caption>Codigos</caption>
+      <isfilter>True</isfilter>
+      <sql> SELECT Currency_ID,Currency_Code Codigo,Currency_Description Descripcion From Sales_Tb_Currency  </sql>
+      <hidden>False</hidden>
+      <width>2.64583</width>
+      <alignment />
+      <format />
+      <group>False</group>
+      <total>False</total>
+    </field>
+    <field>
+      <name>Currency_Description</name>
+      <Type>String</Type>
+      <caption>Descripcion</caption>
+      <isfilter>True</isfilter>
+      <sql />
+      <hidden>False</hidden>
+      <width>2.64583</width>
+      <alignment />
+      <format />
+      <group>False</group>
+      <total>False</total>
+    </field>
+    <field>
+      <name>Currency_Bank_Rate</name>
+      <Type>String</Type>
+      <caption>Tasa</caption>
+      <isfilter>False</isfilter>
+      <sql />
+      <hidden>True</hidden>
+      <width>2.64583</width>
+      <alignment />
+      <format />
+      <group>False</group>
+      <total>False</total>
+    </field>
+  </fields>
+</xml>
