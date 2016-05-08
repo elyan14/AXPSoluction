@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="TestApp"> 
+    <update appID="AXPSoluction"> 
         <version>1.0.3.0</version> 
         <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
         <fileName>AXPSoluction.exe</fileName> 
