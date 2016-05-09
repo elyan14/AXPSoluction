@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="AXPSoluction"> 
-        <version>1.0.7.0</version> 
+        <version>1.0.8.0</version> 
         <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
         <fileName>AXPSoluction.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 05/08/2016:
-        Nueva Pantalla de Secuencias en el Modulo de Administraciond</description> 
+        <description>Update: 05/09/2016:
+        Nueva Pantalla de Secuencias en el Modulo de Administracion...</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
