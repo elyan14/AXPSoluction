@@ -5,8 +5,8 @@
         <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
         <fileName>AXPSoluction.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 05/09/2016:
-        Nueva Pantalla de Secuencias en el Modulo de Administracion...</description> 
+        <description>Update: 05/10/2016:
+        Mejoras en la Herramienta de Actualizacion.... </description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
