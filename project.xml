@@ -1,12 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="AXPSoluction"> 
-        <version>1.0.12.0</version> 
+        <version>1.0.12.1</version> 
         <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
         <fileName>AXPSoluction.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 05/10/2016:
-        Correcion de Data...</description> 
+        <description>Actualizacion: 05/15/2016:
+        Control de Estilo en la Apariencia.
+        Correcion en la pantalla de Rol al momento de Actualizar un Registro.
+        y mas Sorpresas</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
