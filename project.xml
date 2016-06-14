@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="AXPSoluction"> 
-        <version>1.0.18.0</version> 
+        <version>1.0.19.0</version> 
         <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
         <fileName>AXPSoluction.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Actualizacion: 06/13/2016:
+        <description>Actualizacion: 06/14/2016:
         Mejoras de Seguridad
         Limite de Usuario por Seccion en el Sistema
         Nuevo Formato Factura en Reporting Services
