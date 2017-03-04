@@ -1,9 +1,9 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="AXPSoluction"> 
+    <update appID="AccountingOne"> 
         <version>1.0.21.0</version> 
-        <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AXPSoluction.zip</url> 
-        <fileName>AXPSoluction.exe</fileName> 
+        <url>https://raw.githubusercontent.com/elyan14/AXPSoluction/master/AccountingOne.zip</url> 
+        <fileName>AccountingOne.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Actualizacion: 06/20/2016:
         Mejoras Generales.
